@@ -1,7 +1,7 @@
 class DoubleOps {
     public static void main(String[] args) {
         System.out.print("The first argument provided was "+ args[0]+ "." + " The second argument provided was "+ args[1]+".");
-
+        // TODO: introduce variables here so you don't have to parse so many times on subsequent lines
 
         Integer.parseInt(args[0]);
 
